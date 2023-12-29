@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![devmoonjs's GitHub stats](https://github-readme-stats.vercel.app/api?
+![devmoonjs's GitHub stats](https://github-readme-stats.vercel.app/api?
 username=devmoonjs&include_all_commits=true&show_icons=true&theme=cobalt)]
 (https://github.com/devmoonjs/github-readme-stats)
 
