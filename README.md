@@ -1,4 +1,3 @@
-<p align = "center">### Hi there 👋
 
 <!-- ![devmoonjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmoonjs&show_icons=true&theme=github_dark) -->
 
