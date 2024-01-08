@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DevMoonjs&fontSize=90)
 
-<p align = "center">I'm working for a medical artificial intelligence company and use Python</p>
+<p align = "center">🧑🏻‍💻 I'm working for a medical artificial intelligence company and use Python</p>
 <p align = "center">💡 Currently learning Backend with Java</p>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
