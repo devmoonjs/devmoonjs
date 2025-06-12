@@ -1,7 +1,3 @@
-![DevMoonjs](https://capsule-render.vercel.app/api?type=wave&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=DevMoonjs&fontSize=60&fontAlignY=35)
-
----
-
 ## 💻 Experience
 
 - **AI Engineer** @ Medical AI Startup (Jul 2023 – Apr 2024)  
@@ -33,6 +29,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 
 ### DevOps & Cloud  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
