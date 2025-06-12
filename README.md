@@ -2,12 +2,9 @@
 
 - **AI Intern** @ Medical AI Startup (Jul 2023 – Apr 2024)  
   Developed the **Abnormal Sperm Movement Intelligent Tracking** system, leveraging AI for male fertility diagnostics.  
-  - Applied **YOLOv8** for high-speed sperm detection and **EfficientNet** for efficient abnormality classification  
-  - Used **CASA (Computer-Assisted Semen Analysis)** data as ground truth for tracking accuracy  
-  - Trained on a curated dataset from **399 patients**, totaling **1,995 annotated videos**  
+  - Applied **YOLOv8** for high-speed sperm detection and **EfficientNet** for efficient abnormality classification
   - Built preprocessing and inference pipelines with **Python**, **OpenCV**, **TensorFlow**, **PyTorch**  
   - Achieved real-time tracking performance with optimized GPU-based inference  
-  - Contributed to data pipeline automation and model evaluation for production use
 
 - **Team Project: Real-Time Auction Platform** (Oct 2024 – Nov 2024)  
   Developed a **real-time auction system** in a 4-person team using **Java**, **Spring Boot**, and **Redis**, with CQRS, Kafka, and gRPC.  
