@@ -1,19 +1,19 @@
-## 💻 Experience
+## 💼 Experience
 
 - **AI Intern** @ Medical AI Startup (Jul 2023 – Apr 2024)  
   Developed the **Abnormal Sperm Movement Intelligent Tracking** system, leveraging AI for male fertility diagnostics.  
-  - Applied **YOLOv8** for high-speed sperm detection and **EfficientNet** for efficient abnormality classification
+  - Applied **YOLOv8** for high-speed sperm detection and **EfficientNet** for efficient abnormality classification  
   - Built preprocessing and inference pipelines with **Python**, **OpenCV**, **TensorFlow**, **PyTorch**  
-  - Achieved real-time tracking performance with optimized GPU-based inference  
+  - Achieved real-time tracking performance with optimized GPU-based inference
 
-- **Team Project: Real-Time Auction Platform** (Oct 2024 – Nov 2024)  
-  Developed a **real-time auction system** in a 4-person team using **Java**, **Spring Boot**, and **Redis**, with CQRS, Kafka, and gRPC.  
-  - **Performance Optimization**: Reduced bid response latency by 46% via CQRS; replaced Feign with gRPC for 59% faster inter-service calls.  
-  - **Concurrency Control**: Used **Redisson distributed locks** and **Lua scripts** to prevent over-issuance of coupons under high traffic.
- 
 - **Backend Developer** (Jun 2025 – Present)  
   Developing new B2C/B2B services using **Java**, **Spring Boot**, **MyBatis**, **MariaDB**, and **MySQL**.  
-  Responsible for backend architecture, REST API development.
+  Responsible for backend architecture, REST API development, and CI/CD automation on AWS.
+
+- **Team Project: Real-Time Auction Platform** (Oct 2024 – Nov 2024)  
+  Developed a **real-time auction system** in a 4-person team using **Java**, **Spring Boot**, **Redis**, **Kafka**, and **gRPC**.  
+  - Reduced bid latency 46% using **CQRS**, increased throughput 59% by replacing Feign with **gRPC**  
+  - Applied **Redisson + Lua** to ensure atomic coupon issuance under high traffic  
 
 ---
 
@@ -45,7 +45,16 @@
 
 ## 🏅 Certification
 
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)  
+**AWS Certified Solutions Architect – Associate (SAA)**  
+Issued by Amazon Web Services
 
-- **AWS Certified Solutions Architect – Associate (SAA)**  
-  Issued by Amazon Web Services  
+---
+
+## 📈 GitHub Stats
+
+![DevMoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmoonjs&show_icons=true&theme=default&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=devmoonjs&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmoonjs&layout=compact)
