@@ -1,4 +1,4 @@
-## 💼 Experience
+## 💻 Experience
 
 - **AI Intern** @ Medical AI Startup (Jul 2023 – Apr 2024)  
   Developed the **Abnormal Sperm Movement Intelligent Tracking** system, leveraging AI for male fertility diagnostics.  
