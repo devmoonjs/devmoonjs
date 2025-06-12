@@ -2,7 +2,7 @@
 
 ---
 
-## 💼 Experience
+## 💻 Experience
 
 - **AI Engineer** @ Medical AI Startup (Jul 2023 – Apr 2024)  
   Built an AI-powered diagnostic service for male infertility using **Python**, **OpenCV**, and **YOLOv8**.  
