@@ -8,7 +8,7 @@
 
 - **Backend Developer** (Jun 2025 – Present)  
   Developing new B2C/B2B services using **Java**, **Spring Boot**, **MyBatis**, **MariaDB**, and **MySQL**.  
-  Responsible for backend architecture, REST API development, and CI/CD automation on AWS.
+  Responsible for backend architecture, REST API development.
 
 - **Team Project: Real-Time Auction Platform** (Oct 2024 – Nov 2024)  
   Developed a **real-time auction system** in a 4-person team using **Java**, **Spring Boot**, **Redis**, **Kafka**, and **gRPC**.  
